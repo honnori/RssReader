@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ServiceName">
+        <item >SoftBank：ニュース</item>
+        <item >NTTドコモ 全ての新着情報</item>
+        <item >auトピックス&amp;インフォメーション</item>
+    </string-array>
+    <string-array name="ServiceUrl">
+        <item >http://mb.softbank.jp/mb/rss/news.rdf</item>
+        <item >http://www.nttdocomo.co.jp/info/rss/whatsnew.rdf</item>
+        <item >http://www.au.kddi.com/info/topics/rss/au_topics.xml</item>
+    </string-array>
+    
+</resources>
